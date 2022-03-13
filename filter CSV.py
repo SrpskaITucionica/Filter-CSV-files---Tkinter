@@ -3,6 +3,12 @@ from tkinter.ttk import Combobox, Notebook
 from tkinter import filedialog as fd
 import csv
 
+'''
+    Author: Aleksandar Arsic
+    Contact email: srpskaitucionica@gmail.com
+    Github: https://github.com/SrpskaITucionica
+'''
+
 file_name = ''
 
 
